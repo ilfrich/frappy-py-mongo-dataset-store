@@ -1,4 +1,4 @@
-pbu
+pbumongo>=1.0.0
 pandas
 numpy
 Pillow

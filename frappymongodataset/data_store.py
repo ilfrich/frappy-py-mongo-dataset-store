@@ -1,6 +1,6 @@
 from pandas import DataFrame
 from frappymongodataset.mmacommon import imagefile_to_ndarray
-from pbu import AbstractMongoStore, AbstractMongoDocument
+from pbumongo import AbstractMongoStore, AbstractMongoDocument
 
 
 class DataTypes:
